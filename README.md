@@ -1,130 +1,80 @@
-<!-- Banner -->
-<h1 align="center">✨ Hey, I’m <span style="color:#00eaff">Kruthi M</span> ✨</h1>
-<h3 align="center">• Designer • Problem Solver</h3>
+<!-- Header -->
+<h1 align="center">✨ Hey, I'm <span style="color:#00eaff">Kruthi M</span> ✨</h1>
+<h3 align="center">Developer • Designer • Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LOCATION-Shivamogga,%20India-blue?style=flat&logo=google-maps" />
-  <img src="https://img.shields.io/badge/EDU-B.E%20CSD%20@%20PESITM-purple?style=flat&logo=graduation-cap" />
-  <img src="https://img.shields.io/badge/GPA-8.5/10-brightgreen?style=flat&logo=google-scholar" />
+  <img src="https://img.shields.io/badge/From-Karnataka,%20India-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Branch-Computer%20Science%20and%20Design-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Graduation-2027-green?style=flat-square" />
 </p>
 
 ---
 
-## 🌟 **About Me**
-I’m a passionate **Computer Science and Design student** from PESITM (Graduating 2027), driven by creativity and technology.  
-I enjoy building **intelligent systems**, **clean user interfaces**, and **useful automation tools**.  
-I love learning, experimenting, and creating meaningful digital experiences.
+## 🚀 About Me
+I’m a passionate **CSD student** who enjoys blending **technology + creativity**.  
+I build **simple, smart, and meaningful software experiences**, and love projects involving:
 
-🔹 Strong in **Java, Python, HTML, SQL, C**  
-🔹 Experienced with **AI-powered applications, DBMS, UI/UX & automation**  
-🔹 Participated in multiple **hackathons, SDPs & tech events**  
-🔹 Passionate about **design + technology synergy**  
+- 🌐 Web Development  
+- 🧠 Beginner AI / Recognition Systems  
+- 📦 Database Applications  
+- 🎨 UI/UX & clean interface design  
+
+I enjoy solving problems, exploring new tools, and participating in tech events.
 
 ---
 
-## 🚀 **My Tech Stack**
-
+## 🛠 Tech I Use
 **Languages:**  
-`C` • `Java` • `Python` • `HTML` • `SQL`
+✨ C &nbsp; ✨ Java &nbsp; ✨ Python &nbsp; ✨ HTML &nbsp; ✨ SQL  
 
-**Tools & Platforms:**  
-`Bootstrap` • `VS Code` • `phpMyAdmin`
+**Tools:**  
+🛠 VS Code • Bootstrap • phpMyAdmin  
 
-**Domains:**  
-`Full-Stack Development` • `Database Systems` • `AI/ML Basics` • `Automation` • `UI/UX`
-
----
-
-## 🧠 **Projects I've Built**
-
-### 🔹 Smart Vision (AI + Accessibility)
-A unified smart platform integrating **object, digit & gesture recognition** with **real-time TTS alerts** for visually impaired users.  
-✔ Live stream processing  
-✔ Safety proximity alerts  
-✔ Multi-model integration  
-
+**Interests:**  
+💡 Smart Systems • UI Design • Automation • Database Apps
 
 ---
 
-### 🔹 College Database Management System
-A full-stack college information system for **students, faculty, courses, exams & results**, designed for efficient academic data handling.  
-✔ phpMyAdmin + Web UI  
-✔ Complete DB schema  
-✔ Real-world college data flow  
+## 💼 Highlight Projects
 
+### 🔹 Smart Vision  
+Assistive AI tool with **object / digit / gesture recognition** + **real-time audio alerts**.
 
----
+### 🔹 College DBMS  
+A complete academic data management system for **students, faculty, exams, and results**.
 
-### 🔹 Student Resource Hub (Hackathon Project)
-A centralized hub for students to **upload, download & organize study materials** with an integrated **AI chatbot for learning assistance**.  
-✔ HTML + CSS interface  
-✔ Simple database connectivity  
-✔ Hackathon-built & optimized  
+### 🔹 Student Resource Hub  
+Simple platform for students to **upload/download notes** with an **AI-powered assistant**.
 
+### 🔹 Online Exam Interface  
+Java-based MCQ exam portal with scoring logic.
 
----
-
-### 🔹 Online Exam Interface
-Java-based MCQ exam system with:  
-✔ Login system  
-✔ Real-time scoring  
-✔ GUI-based user experience  
-
+### 🔹 Email Slicer (Python)  
+A tiny but useful **string-processing tool**.
 
 ---
 
-### 🔹 Email Slicer (Python)
-A simple but useful tool that extracts **username** and **domain** from an email using string manipulation.  
-✔ Beginner-friendly  
-✔ Demonstrates logic + input handling  
-
-
----
-
-## 🏆 **Achievements & Events**
-
-### 🛠️ Student Development Programs
-- Java for Enterprise  
-- Unlocking Cyber Security (Basics → Advanced)  
-
-
-### ⚡ Hackathons
-- MCE Hassan — *6-hour State Level Hackathon*  
-  
-
-### 🏭 Industrial Visits
-- BOSCH Vocational Center — IOT & Industry 4.0  
-- SERC, IISc Bangalore — High-performance Computing  
-
+## 🏆 Notable Activities
+- MCE Hassan — *State-level hackathon participant*  
+- SDP: **Java for Enterprise**  
+- SDP: **Cyber Security (Basics → Advanced)**  
+- Industrial Visits: **BOSCH Vocational Center**, **IISc SERC**  
 
 ---
 
-## 📫 **Connect With Me**
-
-📧 Email: **kruthimanjappa2006@gmail.com**  
-🔗 GitHub: **https://github.com/kruthiM12**  
-📍 Location: Shivamogga, Karnataka  
-
+## 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/kruthiM12">
-    <img src="https://img.shields.io/github/followers/kruthiM12?label=Followers&style=social" />
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kruthiM12&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruthiM12&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📊 **GitHub Stats**
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kruthiM12&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruthiM12&layout=compact&theme=tokyonight" />
-</p>
+## 📫 Connect With Me
+📍 Shivamogga, Karnataka  
+📧 **kruthimanjappa2006@gmail.com**  
+🌐 GitHub: **github.com/kruthiM12**
 
 ---
 
-## 💫 **Quote I Believe In**
-> *“Design is not just what it looks like and feels like. Design is how it works.” — Steve Jobs*
-
----
-
-### ⭐ If you like my work, consider starring my repositories!  
+<p align="center">✨ Thanks for visiting — have a great day! ✨</p>
